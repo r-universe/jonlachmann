@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "FBMS"]
 	path = FBMS
-	url = https://github.com/cran/FBMS
+	url = https://github.com/jonlachmann/fbms
